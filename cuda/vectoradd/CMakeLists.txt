@@ -1,0 +1,1 @@
+add_executable(vadd main.cu)
